@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreIot_Standard", "..\Projects\CoreIot_Standard\CoreIot_Standard.csproj", "{E5B374A5-BFB1-463A-861A-4E2770FBD5DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringLib", "..\Projects\StringLib\StringLib.csproj", "{D3729171-D04D-45CF-AF96-942925622BE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5B374A5-BFB1-463A-861A-4E2770FBD5DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5B374A5-BFB1-463A-861A-4E2770FBD5DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5B374A5-BFB1-463A-861A-4E2770FBD5DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5B374A5-BFB1-463A-861A-4E2770FBD5DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3729171-D04D-45CF-AF96-942925622BE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3729171-D04D-45CF-AF96-942925622BE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3729171-D04D-45CF-AF96-942925622BE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3729171-D04D-45CF-AF96-942925622BE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
